@@ -1,0 +1,5 @@
+1)Vite-create react app alternative
+2)Redux--->Dispatch->Dispatches the action--->Action->what to change--->Reducer->How to change the state
+3)Redux toolkot->library of redux to make things simple
+		configure store -->instead of create store in redux
+		createslice--->instead of reducer and action
