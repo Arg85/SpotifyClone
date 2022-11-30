@@ -1,9 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-.swiper-wrapper{
+/* .swiper-wrapper{
   display: flex !important; 
-}
+} */
 /* Active Navigation Link */
 .active {
   @apply text-cyan-500;
